@@ -1,0 +1,42 @@
+#music{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    width: 18rem;
+    border-radius: 10%;
+}
+.card-body{
+    
+    font-style: italic;
+    font-size: large;
+    background-color:black;
+}
+
+img.mp3-cover {
+	border-radius: 5px 5px 0 0;
+	padding: 5px;
+	width:100%;
+}
+
+.mp3-hover:hover
+{
+	-webkit-transition: all 200ms ease-in;
+	-webkit-transform: scale(1.1);
+	-ms-transition: all 200ms ease-in;
+	-ms-transform: scale(1.1);   
+	-moz-transition: all 200ms ease-in;
+	-moz-transform: scale(1.1);
+	transition: all 200ms ease-in;
+	transform: scale(1.1);
+}
+
+img.mp3-hover:hover{
+	box-shadow: 0px 0px 100px #94a7ba;
+	z-index: 2;
+}
+
+.mp3-audio{
+	width:100%;
+}

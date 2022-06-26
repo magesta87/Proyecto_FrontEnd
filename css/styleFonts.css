@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+}
+
+.title-inicio{
+    font-family: 'Dancing Script', cursive;
+}
+
+p{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+a{
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.boton{
+    text-decoration-line: none;
+}
+
+.nav-link{
+    font-size:1.5em;
+    font-family: 'Dancing Script', cursive;
+}

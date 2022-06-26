@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "ajax": "^0.0.4",
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0",
+    "jquery-validation": "^1.19.3",
+    "toastr": "^2.1.4"
+  }
+}
